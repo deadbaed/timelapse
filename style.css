@@ -1,0 +1,19 @@
+body {
+	font-family: verdana, arial, helvetica, sans-serif;
+}
+a:hover {
+	font-weight: bolder;
+}
+.top-links {
+	padding-right: 2px;
+}
+.content {
+	line-height: 2em;
+}
+.content-links {
+	padding-left: 10px;
+}
+.content-block {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
